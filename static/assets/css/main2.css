@@ -1,0 +1,36 @@
+
+#logo {
+    /*background-image:url("images/kpsef-logo-hex.png");*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 50px;*/
+
+}
+
+.logotext {
+     /*margin-left:60px; */
+}
+
+.logo {
+    content: url('images/kpsef-logo-hex.png');
+    height:25px;
+}
+
+.logored {
+    color: #FF1D25;
+}
+
+.logoorange {
+    color: #FF911E;
+}
+
+.logoblue {
+    color: #3FA9F5;
+}
+
+.logogreen {
+    color: #7AC943;
+}
+
+.logogray {
+    color: #BDCCD4
+}
